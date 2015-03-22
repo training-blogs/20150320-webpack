@@ -2,3 +2,5 @@
 *.iml
 
 bundle.js
+
+node_modules/
